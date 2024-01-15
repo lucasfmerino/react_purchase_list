@@ -1,4 +1,5 @@
 import { useState } from "react";
+import ShoppingList from "./components/ShoppingList";
 
 
 
@@ -24,6 +25,8 @@ export default function App() {
                     <li key={index}>{newItem}</li>
                 ))}
             </ul>
+
+            <ShoppingList />
         </>
     )
 }
