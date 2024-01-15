@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Shopping List
+
+Repository to test some react features based on the functionality of a shopping list.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
